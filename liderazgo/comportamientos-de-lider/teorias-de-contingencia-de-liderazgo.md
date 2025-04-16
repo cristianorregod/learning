@@ -4,15 +4,6 @@ El liderazgo efectivo no es estático; cambia según el contexto. Las **teorías
 
 ---
 
-## 🎓 ¿Por qué estudiar liderazgo en Platzi?
-
-- Contenido riguroso y con base científica.
-- Aplicación directa al entorno laboral.
-- Enfoque integral para mejorar tanto en lo profesional como en lo personal.
-- Orientación práctica para convertirse en un líder efectivo en cualquier contexto.
-
----
-
 ## 🔄 ¿Qué son las teorías de contingencia?
 
 Son modelos que proponen que **no existe un estilo de liderazgo único** y que el éxito del liderazgo depende de:
