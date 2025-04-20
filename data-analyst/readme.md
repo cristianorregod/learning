@@ -1,6 +1,6 @@
-# 🧠 Ruta de Aprendizaje: Liderazgo en Platzi
+# 🧠 Ruta de Aprendizaje: Data Analyst
 
-Este repositorio contiene apuntes detallados, resúmenes y ejemplos prácticos de los cursos pertenecientes a la **Ruta de Liderazgo y Gestión de Equipos de Platzi**. Está diseñado para ayudarte a desarrollar habilidades de liderazgo, inteligencia emocional y gestión de equipos en entornos profesionales.
+Este repositorio contiene apuntes detallados, resúmenes y ejemplos prácticos de los cursos pertenecientes a la **Data Analyst de Platzi**. Está diseñado para ayudarte a desarrollar habilidades de gestión y visualización de datos.
 
 ---
 
@@ -32,9 +32,9 @@ La estructura es la siguiente:
 
 ## 🏁 Lista de Cursos documentados
 
-| #   | Curso                                                                 | Carpeta                                                 |
-| --- | --------------------------------------------------------------------- | ------------------------------------------------------- |
-| 1   | Curso Intermedio de Liderazgo: Evalúa los Comportamientos de un Líder | [comportamientos-de-lider](./comportamientos-de-lider/) |
+| #   | Curso                                 | Carpeta                                                                     |
+| --- | ------------------------------------- | --------------------------------------------------------------------------- |
+| 1   | Excel intermedio: Tableros y fórmulas | [excel-intermedio-tableros-formulas](./excel-intermedio-tableros-formulas/) |
 
 ## ✍️ Autor y Créditos
 

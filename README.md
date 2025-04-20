@@ -25,12 +25,11 @@ Este repositorio es mi forma de:
 
 ## 📂 Tabla de habilidades
 
-| Habilidad        | Carpeta                      |
-|------------------|------------------------------|
-| Liderazgo        | [liderazgo](./liderazgo)     |
-| [Más cursos...]  | _(próximamente)_             |
+| Habilidad    | Carpeta                        |
+| ------------ | ------------------------------ |
+| Liderazgo    | [liderazgo](./liderazgo)       |
+| Data Analyst | [data-analyst](./data-analyst) |
 
 ---
 
 > 🚧 Este repositorio está en construcción permanente. Cada commit es una muestra de progreso y crecimiento.
-
