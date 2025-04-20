@@ -2,6 +2,8 @@
 
 En la gestión de datos, **eliminar duplicados es esencial para garantizar información precisa y confiable**. La duplicación puede provocar errores significativos en reportes, como la sobreestimación de ventas, generando decisiones mal fundamentadas.
 
+<img src="https://i.ibb.co/SDB6G12m/infografia-eliminar-duplicados.png" alt="5-aspectos-clave-de-eliminar-duplicados" style="border-radius: 18px;"/>
+
 ---
 
 ## ❓ ¿Por qué es importante eliminar duplicados?
@@ -65,12 +67,12 @@ Si trabajas con grandes volúmenes de datos, considera complementar con herramie
 
 ## 📌 Infografía: 5 aspectos clave para eliminar duplicados
 
-**Elimina errores en reportes críticos**: Evita sobreestimar métricas clave como ventas o clientes.
+- **Elimina errores en reportes críticos**: Evita sobreestimar métricas clave como ventas o clientes.
 
-**Excel facilita el proceso con una herramienta nativa**: Usar "Quitar duplicados" permite limpiar datos en segundos.
+- **Excel facilita el proceso con una herramienta nativa**: Usar "Quitar duplicados" permite limpiar datos en segundos.
 
-**Seleccionar correctamente las columnas es esencial**: Definir qué campos analizar garantiza resultados precisos.
+- **Seleccionar correctamente las columnas es esencial**: Definir qué campos analizar garantiza resultados precisos.
 
-**El protocolo de revisión continua mejora la calidad del análisis**: La prevención de errores empieza en la entrada de datos.
+- **El protocolo de revisión continua mejora la calidad del análisis**: La prevención de errores empieza en la entrada de datos.
 
-**Automatizar el proceso optimiza grandes bases de datos**: Fórmulas, macros o Power Query ahorran tiempo y reducen riesgos.
+- **Automatizar el proceso optimiza grandes bases de datos**: Fórmulas, macros o Power Query ahorran tiempo y reducen riesgos.
